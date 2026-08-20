@@ -2,7 +2,7 @@
 # Physiological Coupling in Practice
 ### From Cardiorespiratory Synchrony to Heart–Brain Interactions
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RonnyBartsch-BIU/Adriatica-Summer-School-2026/blob/main/Adriatica2026_Tutorial_Bartsch.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RonnyBartsch-BIU/Adriatica-Summer-School-2026/blob/main/Adriatica2026_Tutorial_Bartsch_revised.ipynb)
 
 Hands-on tutorial, **Adriatica Summer School 2026** (University of Chieti, 31 Aug – 4 Sep 2026)
 Ronny Bartsch, Department of Physics, Bar-Ilan University
